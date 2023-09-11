@@ -1,0 +1,9 @@
+[submodule "smart-contracts"]
+	path = smart-contracts
+	url = git@github.com:kalyberk/cognicraft-smart-contracts.git
+[submodule "serverless"]
+	path = serverless
+	url = git@github.com:kalyberk/cognicraft-serverless.git
+[submodule "app"]
+	path = app
+	url = git@github.com:kalyberk/cognicraft-ui.git
