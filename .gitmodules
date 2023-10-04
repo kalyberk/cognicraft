@@ -1,3 +1,6 @@
 [submodule "smart-contracts"]
 	path = smart-contracts
 	url = git@github.com:kalyberk/cognicraft-smart-contracts.git
+[submodule "app"]
+	path = app
+	url = https://github.com/kalyberk/cognicraft-app.git
